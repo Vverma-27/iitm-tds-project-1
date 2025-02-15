@@ -1,0 +1,11 @@
+Flask
+python-dotenv
+Pillow
+python-dateutil
+pytesseract
+numpy
+requests
+markdown
+pandas
+scipy
+faster-whisper
